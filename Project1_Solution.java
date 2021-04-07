@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
-public class Project1_Solutio
+public class Project1_Solution
 {
    public static void main(String[]args)
    {
